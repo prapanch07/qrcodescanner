@@ -14,15 +14,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<String> qrscan() async {
     final qrresult = await FlutterBarcodeScanner.scanBarcode(
         '#fc0303', 'cancel', true, ScanMode.QR);
-    print(qrresult);
     return qrresult;
-  }
-
-  Future<String> barscan() async {
-    final barresult = await FlutterBarcodeScanner.scanBarcode(
-        '#d2fc03', "cancel", true, ScanMode.BARCODE);
-    print(barresult);
-    return barresult;
   }
 
   @override
