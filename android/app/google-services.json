@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129872891844",
+    "project_id": "qr-bar-codesca",
+    "storage_bucket": "qr-bar-codesca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129872891844:android:577ba711c86afd291ade91",
+        "android_client_info": {
+          "package_name": "com.example.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129872891844-45t52dumd477u0rm6p7d44n147iiqbp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-yUZwabjdoJKNlVmIHT0kFekVGg8Swo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129872891844-45t52dumd477u0rm6p7d44n147iiqbp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
